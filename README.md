@@ -1,2 +1,8 @@
-# Apresentacao-com-html_css
-Uma apresentação simples de produtos com html e css
+# Apresentacao-com-html_css_javascript
+
+Uma Apresentação simples de produtos com HTML, CSS, e JAVASCRIPT
+
+![img-background](main/img/backgroung.png)
+
+
+
