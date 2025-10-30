@@ -2,6 +2,6 @@
 
 Uma Apresentação simples de produtos com HTML, CSS, e JAVASCRIPT
 
-![img-background](background.png)
+![img-background](Captura%20de%20Tela%20(92).png)
 
 
