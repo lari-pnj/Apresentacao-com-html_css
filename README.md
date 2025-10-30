@@ -2,7 +2,6 @@
 
 Uma Apresentação simples de produtos com HTML, CSS, e JAVASCRIPT
 
-![img-background](main/img/backgroung.png)
-
+![img-background](backgroung.png)
 
 
